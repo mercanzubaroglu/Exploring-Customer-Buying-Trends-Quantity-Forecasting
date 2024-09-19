@@ -24,6 +24,7 @@ R² Score: [R² değeri]
 Projede Apriori algoritması veri setinin büyük boyutu nedeniyle uygulanamamıştır. Bu nedenle, diğer gözetimli öğrenme yöntemleri de değerlendirilmiştir. Denenen gözetimli öğrenme yöntemleri yaklaşık olarak benzer sonuçlar vermiştir, bu da veri setimizin özelliklerine göre bu yöntemlerin genel olarak aynı performansı sergilediğini göstermektedir.
 
 Veri Setinin Uygunluğu
+
 **Random Forest Regressor:**
 
 **Uygunluk Nedeni:** E-ticaret veri setinin geniş ve karmaşık yapısı, Random Forest algoritmasının karmaşık ilişkileri etkili bir şekilde modellemesine olanak tanımıştır. Özellikle büyük veri setlerinde Random Forest'ın güçlü performansı gözlemlenmiştir.
