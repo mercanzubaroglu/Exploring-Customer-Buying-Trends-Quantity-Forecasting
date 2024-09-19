@@ -35,3 +35,5 @@ Apriori Algoritması:
 **Sonuç**
 
 Sonuç olarak, e-ticaret veri seti üzerinde Random Forest Regressor algoritması etkili bir şekilde kullanılmıştır ve performans değerlendirmeleri yapılmıştır. Apriori algoritması, veri setinin büyüklüğü nedeniyle uygulanamamış ve diğer gözetimli öğrenme yöntemlerinin performansı benzer sonuçlar göstermiştir. Bu proje, e-ticaret veri setleri ile algoritma seçiminin önemini ve performans değerlendirmelerinin nasıl yapıldığını vurgulamaktadır.
+
+KAAGLE LİNK: https://www.kaggle.com/code/mercanzubaroglu/mercanzubaroglu/notebook
