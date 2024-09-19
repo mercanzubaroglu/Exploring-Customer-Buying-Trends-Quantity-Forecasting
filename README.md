@@ -11,6 +11,7 @@ Veri Seti
 Kullanılan Öğrenme Algoritması
 
 **Random Forest Regressor**
+
 **Açıklama:**
 Random Forest, birçok karar ağacının birleşiminden oluşan bir topluluk yöntemidir. Karmaşık veri ilişkilerini modellemede etkili olup, geniş veri setlerinde yüksek performans gösterebilir. Veri setindeki karmaşık ilişkileri ve etkileşimleri modelleme yeteneği sayesinde etkili sonuçlar elde edilmiştir.
 
